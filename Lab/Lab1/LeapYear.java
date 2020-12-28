@@ -2,6 +2,8 @@
  *  @author Leon
  */
 
+package Lab.Lab1;
+
 public class LeapYear {
 
   public static boolean isLeapYear(int year) {
