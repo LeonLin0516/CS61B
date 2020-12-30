@@ -1,5 +1,3 @@
-package Assignment.hw01;
-
 public class hw01 {
 
   public static void windowPosSum(int[] arr, int n) {
