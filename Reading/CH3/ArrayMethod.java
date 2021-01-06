@@ -34,6 +34,7 @@ public class ArrayMethod {
     }
     System.out.println();
   }
+  
   public static void main(String[] args) {
     int[] test = new int[]{1,2,3,4,5,6,7};
     insert(test, 3, 6);
